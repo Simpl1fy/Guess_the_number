@@ -1,5 +1,5 @@
-import random
-secret = random.randint(1,10);
+import random       # Importing random library for generating random numbers
+secret = random.randint(1,10);  # Generating a integer random number between 1 and 10
 
 x = True
 score = 10
